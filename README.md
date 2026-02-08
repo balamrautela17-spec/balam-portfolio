@@ -1,6 +1,6 @@
 # Hey there! 👋 
 
-I'm Balam a BBA Finance graduate passionate about data analytics. Currently mastering SQL, Power BI, Excel, and learning Python for data analysis! 🚀
+I'm Balam a BBA Finance graduate passionate about data analytics. With hands-on experience in tools like SQL, Power BI and Excel, while learning Python for data analysis! 🚀
 
 ## My Toolkit
 
